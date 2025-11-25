@@ -1,0 +1,287 @@
+{
+  "devices": [
+    { "brand": "Apple", "generation": "iPhone 14", "name": "iPhone 14",      "battery_mAh": 3279, "display_inches": 6.1, "camera": { "rear": [{ "type": "wide", "mp": 12 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 14", "name": "iPhone 14 Plus", "battery_mAh": 4323, "display_inches": 6.7, "camera": { "rear": [{ "type": "wide", "mp": 12 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 14", "name": "iPhone 14 Pro",  "battery_mAh": 3200, "display_inches": 6.1, "camera": { "rear": [{ "type": "wide", "mp": 48 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 14", "name": "iPhone 14 Pro Max","battery_mAh": 4323, "display_inches": 6.7, "camera": { "rear": [{ "type": "wide", "mp": 48 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 15", "name": "iPhone 15",       "battery_mAh": 3340, "display_inches": 6.1, "camera": { "rear": [{ "type": "wide", "mp": 48 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 15", "name": "iPhone 15 Plus",  "battery_mAh": 4352, "display_inches": 6.7, "camera": { "rear": [{ "type": "wide", "mp": 48 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 15", "name": "iPhone 15 Pro",   "battery_mAh": 3200, "display_inches": 6.1, "camera": { "rear": [{ "type": "wide", "mp": 48 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 15", "name": "iPhone 15 Pro Max","battery_mAh": 4400, "display_inches": 6.7, "camera": { "rear": [{ "type": "wide", "mp": 48 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 16", "name": "iPhone 16",       "battery_mAh": 3400, "display_inches": 6.1, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 16", "name": "iPhone 16 Plus",  "battery_mAh": 4400, "display_inches": 6.7, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 16", "name": "iPhone 16 Pro",   "battery_mAh": 3250, "display_inches": 6.1, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 16", "name": "iPhone 16 Pro Max","battery_mAh": 4500, "display_inches": 6.7, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 12 }], "front": { "type": "wide", "mp": 12 } } },
+    { "brand": "Apple", "generation": "iPhone 17", "name": "iPhone 17",        "battery_mAh": 3500, "display_inches": 6.1, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 18 } } },
+    { "brand": "Apple", "generation": "iPhone 17", "name": "iPhone 17 Plus",   "battery_mAh": 4600, "display_inches": 6.7, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 18 } } },
+    { "brand": "Apple", "generation": "iPhone 17", "name": "iPhone 17 Pro",    "battery_mAh": 4250, "display_inches": 6.3, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 12 }], "front": { "type": "wide", "mp": 18 } } },
+    { "brand": "Apple", "generation": "iPhone 17", "name": "iPhone 17 Pro Max","battery_mAh": 5088, "display_inches": 6.7, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 12 }], "front": { "type": "wide", "mp": 18 } } },
+    { "brand": "Google", "generation": "Pixel 7",  "name": "Pixel 7 Pro", "battery_mAh": 5000, "display_inches": 6.7,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 48 }], "front": { "type": "wide", "mp": 10.8 } } },
+    { "brand": "Google", "generation": "Pixel 7",  "name": "Pixel 7",     "battery_mAh": 4355, "display_inches": 6.3,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 10.8 } } },
+    { "brand": "Google", "generation": "Pixel 8",  "name": "Pixel 8 Pro", "battery_mAh": 5050, "display_inches": 6.7,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 48 }, { "type": "telephoto", "mp": 48 }], "front": { "type": "wide", "mp": 10.5 } } },
+    { "brand": "Google", "generation": "Pixel 8",  "name": "Pixel 8",     "battery_mAh": 4575, "display_inches": 6.2,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 10.5 } } },
+    { "brand": "Google", "generation": "Pixel 9",  "name": "Pixel 9 Pro", "battery_mAh": 4600, "display_inches": 6.3,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 48 }], "front": { "type": "wide", "mp": 10.5 } } },
+    { "brand": "Google", "generation": "Pixel 9",  "name": "Pixel 9",     "battery_mAh": 4300, "display_inches": 6.1,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }], "front": { "type": "wide", "mp": 10.5 } } },
+    { "brand": "Motorola", "generation": "Edge 2024", "name": "Moto Edge 50 Pro",  "battery_mAh": 5000, "display_inches": 6.7, "camera": { "rear": [{ "type": "wide", "mp": 108 }, { "type": "ultrawide", "mp": 16 }, { "type": "telephoto", "mp": 8 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Motorola", "generation": "Edge 2024", "name": "Moto Edge 50 Lite", "battery_mAh": 4500, "display_inches": 6.5, "camera": { "rear": [{ "type": "wide", "mp": 64 }, { "type": "ultrawide", "mp": 8 }], "front": { "type": "wide", "mp": 16 } } },
+    { "brand": "Motorola", "generation": "Razr 2025", "name": "Moto Razr Ultra", "battery_mAh": 4500, "display_inches": 6.9, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 13 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 15", "name": "Xiaomi 15",       "battery_mAh": 5240, "display_inches": 6.36, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 15", "name": "Xiaomi 15 Pro",   "battery_mAh": 6100, "display_inches": 6.73, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 15", "name": "Xiaomi 15 Ultra","battery_mAh": 5410, "display_inches": 6.73, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 14", "name": "Xiaomi 14",       "battery_mAh": 4600, "display_inches": 6.36, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 14", "name": "Xiaomi 14 Pro",   "battery_mAh": 4800, "display_inches": 6.73, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 14", "name": "Xiaomi 14 Ultra","battery_mAh": 5300, "display_inches": 6.73, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 13", "name": "Xiaomi 13",       "battery_mAh": 4500, "display_inches": 6.36, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 10 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 13", "name": "Xiaomi 13 Pro",   "battery_mAh": 4820, "display_inches": 6.73, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 13", "name": "Xiaomi 13 Ultra","battery_mAh": 5000, "display_inches": 6.73, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 17", "name": "Xiaomi 17",       "battery_mAh": 7000, "display_inches": 6.3,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 50 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 17", "name": "Xiaomi 17 Pro",   "battery_mAh": 6300, "display_inches": 6.3,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 50 } } },
+    { "brand": "Xiaomi", "generation": "Xiaomi 17", "name": "Xiaomi 17 Pro Max","battery_mAh": 7500, "display_inches": 6.9,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 50 } } },
+    { "brand": "Huawei", "generation": "Mate 70", "name": "Huawei Mate 70",      "battery_mAh": 5300, "display_inches": 6.78, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Huawei", "generation": "Mate 70", "name": "Huawei Mate 70 Pro", "battery_mAh": 5500, "display_inches": 6.78, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } },
+    { "brand": "Huawei", "generation": "Mate XT", "name": "Huawei Mate XT",     "battery_mAh": 5600, "display_inches": 7.9,  "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 12 }, { "type": "telephoto", "mp": 12 }], "front": { "type": "wide", "mp": 8 } } },
+    { "brand": "Huawei", "generation": "Mate 70 RS", "name": "Huawei Mate 70 RS", "battery_mAh": 5700, "display_inches": 6.82, "camera": { "rear": [{ "type": "wide", "mp": 50 }, { "type": "ultrawide", "mp": 50 }, { "type": "telephoto", "mp": 50 }], "front": { "type": "wide", "mp": 32 } } }
+    {
+    "brand": "Samsung",
+    "generation": "Galaxy S21",
+    "name": "Galaxy S21",
+    "battery_mAh": 4000,
+    "display_inches": 6.2,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 12 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 64 }
+      ],
+      "front": { "type": "wide", "mp": 10 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S21",
+    "name": "Galaxy S21+",
+    "battery_mAh": 4800,
+    "display_inches": 6.7,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 12 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 64 }
+      ],
+      "front": { "type": "wide", "mp": 10 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S21",
+    "name": "Galaxy S21 Ultra",
+    "battery_mAh": 5000,
+    "display_inches": 6.8,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 108 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 },
+        { "type": "telephoto2", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 40 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S22",
+    "name": "Galaxy S22",
+    "battery_mAh": 3700,
+    "display_inches": 6.1,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 50 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 10 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S22",
+    "name": "Galaxy S22+",
+    "battery_mAh": 4500,
+    "display_inches": 6.6,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 50 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 10 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S22",
+    "name": "Galaxy S22 Ultra",
+    "battery_mAh": 5000,
+    "display_inches": 6.8,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 108 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 },
+        { "type": "telephoto2", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 40 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S23",
+    "name": "Galaxy S23",
+    "battery_mAh": 3900,
+    "display_inches": 6.1,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 50 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 12 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S23",
+    "name": "Galaxy S23+",
+    "battery_mAh": 4700,
+    "display_inches": 6.6,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 50 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 12 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S23",
+    "name": "Galaxy S23 Ultra",
+    "battery_mAh": 5000,
+    "display_inches": 6.8,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 200 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 },
+        { "type": "telephoto2", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 12 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S24",
+    "name": "Galaxy S24",
+    "battery_mAh": 3900,
+    "display_inches": 6.1,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 50 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 12 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S24",
+    "name": "Galaxy S24+",
+    "battery_mAh": 4700,
+    "display_inches": 6.6,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 50 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 12 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy S24",
+    "name": "Galaxy S24 Ultra",
+    "battery_mAh": 5000,
+    "display_inches": 6.8,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 200 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 },
+        { "type": "telephoto2", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 12 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy Z Fold4",
+    "name": "Galaxy Z Fold4",
+    "battery_mAh": 4400,
+    "display_inches": 7.6,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 50 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 10 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy Z Fold5",
+    "name": "Galaxy Z Fold5",
+    "battery_mAh": 4400,
+    "display_inches": 7.6,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 50 },
+        { "type": "ultrawide", "mp": 12 },
+        { "type": "telephoto", "mp": 10 }
+      ],
+      "front": { "type": "wide", "mp": 10 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy Z Flip4",
+    "name": "Galaxy Z Flip4",
+    "battery_mAh": 3700,
+    "display_inches": 6.7,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 12 },
+        { "type": "ultrawide", "mp": 12 }
+      ],
+      "front": { "type": "wide", "mp": 10 }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "generation": "Galaxy Z Flip5",
+    "name": "Galaxy Z Flip5",
+    "battery_mAh": 3700,
+    "display_inches": 6.7,
+    "camera": {
+      "rear": [
+        { "type": "wide", "mp": 12 },
+        { "type": "ultrawide", "mp": 12 }
+      ],
+      "front": { "type": "wide", "mp": 12 }
+    }
+  }
+  ]
+}
